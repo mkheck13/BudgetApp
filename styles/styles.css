@@ -1,0 +1,40 @@
+.val-box {
+    margin-bottom: 10px;
+}
+.expense-box {
+    margin-top: 10px;
+    background-color: #05f429;
+    color: black;
+    justify-content: space-around;
+    border-radius: 10px;
+    border-color: black;
+    padding-top: 15px;
+}
+
+#deleteBox {
+    background-color: transparent;
+    border-color: transparent;
+}
+
+.main-bg {
+    background: transparent;
+    color: white;
+    font-family: 'Source Sans Pro', sans-serif;
+}
+
+#addExpense, #updateBudget {
+    background-color: #D27E19;
+}
+input {
+    background-color: transparent;
+    font-family: 'Source Sans Pro', sans-serif;
+    
+}
+::placeholder {
+    color: white;
+}
+
+.title{
+    text-align: center;
+    margin-top: 10px;
+}
